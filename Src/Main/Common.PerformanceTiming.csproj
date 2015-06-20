@@ -124,27 +124,27 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Core\Files\Src\Main\Common.Core.Files.csproj">
+    <ProjectReference Include="..\..\..\Common.Core.Files\Src\Main\Common.Core.Files.Build.csproj">
       <Project>{0FF43F5C-9E8B-4010-A805-8C54EF43E511}</Project>
-      <Name>Common.Core.Files</Name>
+      <Name>Common.Core.Files.Build</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\Core\Logging\Src\Main\Common.Core.Logging.csproj">
+    <ProjectReference Include="..\..\..\Common.Core.Logging\Src\Main\Common.Core.Logging.csproj">
       <Project>{4EC65D78-6249-4B88-A306-0ED758D3EF1D}</Project>
       <Name>Common.Core.Logging</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\Core\Utils\Src\Main\Common.Core.Utils.csproj">
+    <ProjectReference Include="..\..\..\Common.Core.Utils\Src\Main\Common.Core.Utils.csproj">
       <Project>{0744A732-A7FE-4658-967D-C5A583EF08E4}</Project>
       <Name>Common.Core.Utils</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\Core\Security.Prinicipals\Src\Main\Common.Core.Security.Prinicipals.csproj">
+    <ProjectReference Include="..\..\..\Common.Core.Security.Prinicipals\Src\Main\Common.Core.Security.Prinicipals.csproj">
       <Project>{C25A2EC8-8741-4A76-BF38-BA8A76CB730A}</Project>
       <Name>Common.Core.Security.Prinicipals</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\Core\Web\Src\Main\Common.Core.Web.csproj">
+    <ProjectReference Include="..\..\..\Common.Core.Web\Src\Main\Common.Core.Web.csproj">
       <Project>{DEA75FBD-F1B4-4730-B10D-CBE20538DA37}</Project>
       <Name>Common.Core.Web</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\Data\Databases\Src\Main\Common.Data.Databases.csproj">
+    <ProjectReference Include="..\..\..\Common.Data.Databases\Src\Main\Common.Data.Databases.csproj">
       <Project>{A7DF15F2-1210-4431-B223-A3A2810DC14A}</Project>
       <Name>Common.Data.Databases</Name>
     </ProjectReference>
