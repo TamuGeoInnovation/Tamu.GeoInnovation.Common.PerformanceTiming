@@ -131,6 +131,7 @@
     <ProjectReference Include="..\..\..\Common.Data.Databases\Src\Main\Common.Data.Databases.Dev.csproj">
       <Project>{A7DF15F2-1210-4431-B223-A3A2810DC14A}</Project>
       <Name>Common.Data.Databases.Dev</Name>
+      <Private>False</Private>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
