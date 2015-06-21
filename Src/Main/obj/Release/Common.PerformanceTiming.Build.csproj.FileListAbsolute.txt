@@ -1,4 +1,0 @@
-C:\DevSource\Tamu\GeoInnovation\Common.PerformanceTiming\Src\Main\obj\Release\Tamu.GeoInnovation.Common.PerformanceTiming.dll
-C:\DevSource\Tamu\GeoInnovation\Common.PerformanceTiming\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.PerformanceTiming.dll.config
-C:\DevSource\Tamu\GeoInnovation\Common.PerformanceTiming\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.PerformanceTiming.dll
-C:\DevSource\Tamu\GeoInnovation\Common.PerformanceTiming\Src\Main\obj\Release\Common.PerformanceTiming.Build.csprojResolveAssemblyReference.cache
