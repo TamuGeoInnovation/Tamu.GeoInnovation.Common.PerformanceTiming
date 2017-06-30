@@ -1,7 +1,4 @@
-﻿using System.Collections;
-using System.Data;
-using System.Web.UI.WebControls;
-using System.Diagnostics;
+﻿using System.Diagnostics;
 using USC.GISResearchLab.Common.Databases.QueryManagers;
 
 namespace USC.GISResearchLab.Common.Core.PerformanceTiming.PerformanceTimingManagement.Interfaces
