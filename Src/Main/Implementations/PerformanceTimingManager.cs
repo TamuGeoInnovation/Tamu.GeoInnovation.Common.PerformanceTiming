@@ -3,7 +3,7 @@
 
 namespace USC.GISResearchLab.Common.Core.PerformanceTiming.PerformanceTimingManagement.Implementations
 {
-    public class PerformanceTimingManager: AbstractPerformanceTimingManager
+    public class PerformanceTimingManager : AbstractPerformanceTimingManager
     {
         #region Properties
 
@@ -13,7 +13,7 @@ namespace USC.GISResearchLab.Common.Core.PerformanceTiming.PerformanceTimingMana
         public PerformanceTimingManager()
             : base()
         {
-            
+
         }
 
     }

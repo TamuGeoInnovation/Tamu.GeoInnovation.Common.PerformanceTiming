@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Data;
 using System.Data.SqlClient;
+using System.Diagnostics;
+using System.Text;
 using System.Threading;
+using USC.GISResearchLab.Common.Core.PerformanceTiming.PerformanceTimingManagement.Interfaces;
 using USC.GISResearchLab.Common.Databases.QueryManagers;
 using USC.GISResearchLab.Common.Utils.Databases;
-using System.Text;
-using System.Diagnostics;
-using USC.GISResearchLab.Common.Core.PerformanceTiming.PerformanceTimingManagement.Interfaces;
 
 namespace USC.GISResearchLab.Common.Core.PerformanceTiming.PerformanceTimingManagement.AbstractClasses
 {
@@ -21,7 +21,7 @@ namespace USC.GISResearchLab.Common.Core.PerformanceTiming.PerformanceTimingMana
         public AbstractPerformanceTimingManager()
             : base()
         {
-            
+
         }
 
         public virtual void InsertTiming(TraceEventType traceEventType, string componentName, string functionName, string message, double timeTaken, string databaseServer, string medium, string service, string source, string apiServer, string userGuid, string inputAddress, string resultType, string resultCount, string resultException)
